@@ -1,6 +1,15 @@
 # 🚀 Deep Learning with Keras and TensorFlow  
 *IBM – Coursera (Labs, Projects & Glossaries)*  
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)  
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-FA0F00?logo=jupyter)  
+![IBM](https://img.shields.io/badge/IBM-Course-052FAD?logo=ibm)  
+![Coursera](https://img.shields.io/badge/Coursera-Specialization-0056D2?logo=coursera)  
+
+---
+
 Welcome to my **Deep Learning with Keras and TensorFlow** repository! 🎓  
 This repo contains all the **hands-on labs, projects, and glossaries** I completed during the IBM specialization on Coursera.  
 
