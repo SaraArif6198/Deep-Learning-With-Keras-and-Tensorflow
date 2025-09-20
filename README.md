@@ -9,6 +9,10 @@
 ![Coursera](https://img.shields.io/badge/Coursera-Specialization-0056D2?logo=coursera)  
 
 ---
+<!-- Cover Image -->
+<p align="center">
+  <img src="https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/blob/main/cover.png" alt="Deep Learning with Keras and TensorFlow Cover" width="800">
+</p>
 
 Welcome to my **Deep Learning with Keras and TensorFlow** repository! 🎓  
 This repo contains all the **hands-on labs, projects, and glossaries** I completed during the IBM specialization on Coursera.  
