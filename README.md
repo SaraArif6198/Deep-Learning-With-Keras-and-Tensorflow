@@ -95,12 +95,6 @@ The goal is simple:
 
 ---
 
-## 🤝 Contribution
-Want to collaborate or improve these labs?  
-Feel free to **fork** this repo and submit pull requests.  
-
----
-
 ## ⭐ Support
 If you find this repository helpful, please consider giving it a ⭐ to support my work!  
 
