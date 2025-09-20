@@ -15,13 +15,13 @@ The goal is simple:
 
 | Module | Topics Covered | Links |
 |--------|----------------|-------|
-| 🔹 [Module 1](#-module-1-introduction-to-keras) | Functional API, Custom Layers | 🔗 Labs + Glossary |
-| 🔹 [Module 2](#-module-2-advanced-cnns-and-transfer-learning) | CNNs, Transfer Learning, Transpose Convolution | 🔗 Labs + Glossary |
-| 🔹 [Module 3](#-module-3-transformers-in-keras) | Transformers, Text Generation | 🔗 Labs + Glossary |
-| 🔹 [Module 4](#-module-4-unsupervised-learning-and-generative-models) | Autoencoders, GANs, Diffusion Models | 🔗 Labs + Glossary |
-| 🔹 [Module 5](#-module-5-advanced-keras-techniques) | Custom Training Loops, Hyperparameter Tuning | 🔗 Labs + Glossary |
-| 🔹 [Module 6](#-module-6-reinforcement-learning-in-keras) | Q-Learning, Deep Q-Networks | 🔗 Labs + Glossary |
-| 🔹 [Module 7](#-module-7-projects) | Fruit Classification, Waste Classification | 🔗 Projects |
+| 🔹 [Module 1](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/Module%201) | Functional API, Custom Layers | 🔗 Labs + Glossary |
+| 🔹 [Module 2](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/Module%202) | CNNs, Transfer Learning, Transpose Convolution | 🔗 Labs + Glossary |
+| 🔹 [Module 3](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/Module%203) | Transformers, Text Generation | 🔗 Labs + Glossary |
+| 🔹 [Module 4](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/Module%204) | Autoencoders, GANs, Diffusion Models | 🔗 Labs + Glossary |
+| 🔹 [Module 5](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/Module%205) | Custom Training Loops, Hyperparameter Tuning | 🔗 Labs + Glossary |
+| 🔹 [Module 6](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/module%206) | Q-Learning, Deep Q-Networks | 🔗 Labs + Glossary |
+| 🔹 [Module 7](https://github.com/SaraArif6198/Deep-Learning-With-Keras-and-Tensorflow/tree/main/module%207) | Fruit Classification, Waste Classification | 🔗 Projects |
 
 ---
 
